@@ -1,16 +1,59 @@
-## Hi there 👋
+<h2> Hi, I'm Mahesh Kumar Chelladurai <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> </h2>
 
-<!--
-**Mahesh-adpl/Mahesh-adpl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+I’m a <strong>Cybersecurity Researcher</strong>, <strong>Penetration Tester</strong> & <strong>Bug Bounty Hunter</strong> with 2.6+ years of experience. Passionate about exploiting misconfigurations, automating recon, and discovering real-world impactful vulnerabilities.
+</p>
 
-Here are some ideas to get you started:
+<p>
+💼 Need help with <strong>web security, automation, or Firebase misconfiguration analysis?</strong><br>
+📩 Reach me at: <code>mahesh.chelladurai007@gmail.com</code>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+☕ Like my work? Support me via UPI: <code>0xmahesh@upi</code>
+</p>
+
+---
+
+### 🧠 Skills & Tools
+
+`XSS` `SSRF` `Firebase Hacking` `CORS` `JWT Abuse` `Burp Suite` `ZAP` `Linux` `Recon` `OWASP Top 10` `Subdomain Takeover`
+
+---
+
+### 🧪 Latest Projects
+
+- 🔥 Firebase Abuse Automation Tool
+- 🛡️ SSL Certificate Parser CLI + HTML Report
+- 🎯 Credential Harvesting Demo for Phishing
+- 🌐 Subdomain Recon with `httpx` + `amass`
+
+---
+
+### 🌐 Connect with Me
+
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=X&logoColor=white)](https://x.com/yourhandle) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile) 
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white)](https://github.com/0xMahesh)
+[![Bugcrowd](https://img.shields.io/badge/Bugcrowd-orange?logo=bugcrowd&logoColor=white)](https://bugcrowd.com/0xMahesh)
+
+![](https://komarev.com/ghpvc/?username=0xMahesh&style=flat-square&color=blue)
+
+---
+
+### 📊 GitHub Stats
+
+![Mahesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xMahesh&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xMahesh&layout=compact&theme=radical)
+
+---
+
+### 🔒 Sample Reports
+
+📄 [Penetration Testing Report – Firebase Auth Abuse](https://link-to-your-report)  
+📄 [XSS in PDF Upload (SaltSecurity Chat POC)](https://link-to-your-writeup)  
+📄 [SSL Analyzer HTML Report Sample](https://link-to-report)
+
+---
+
+> 🧑‍💻 “Break the system to protect the system.” — Mahesh (0xMahesh)
