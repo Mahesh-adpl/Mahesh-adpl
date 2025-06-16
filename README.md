@@ -6,7 +6,7 @@ I’m a <strong>Cybersecurity Researcher</strong>, <strong>Penetration Tester</s
 
 <p>
 💼 Need help with <strong>web security, automation, or Firebase misconfiguration analysis?</strong><br>
-📩 Reach me at: <code>mahesh.chelladurai007@gmail.com</code>
+📩 Reach me at: <code>maheshcmcyber888@gmail.com</code>
 </p>
 
 <p>
@@ -38,21 +38,6 @@ I’m a <strong>Cybersecurity Researcher</strong>, <strong>Penetration Tester</s
 [![Bugcrowd](https://img.shields.io/badge/Bugcrowd-orange?logo=bugcrowd&logoColor=white)](https://bugcrowd.com/0xMahesh)
 
 ![](https://komarev.com/ghpvc/?username=0xMahesh&style=flat-square&color=blue)
-
----
-
-### 📊 GitHub Stats
-
-![Mahesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xMahesh&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xMahesh&layout=compact&theme=radical)
-
----
-
-### 🔒 Sample Reports
-
-📄 [Penetration Testing Report – Firebase Auth Abuse](https://link-to-your-report)  
-📄 [XSS in PDF Upload (SaltSecurity Chat POC)](https://link-to-your-writeup)  
-📄 [SSL Analyzer HTML Report Sample](https://link-to-report)
 
 ---
 
